@@ -1,0 +1,13 @@
+C:\Users\CRISTOBAL\source\repos\ExamenPuntoTicket\ExamenPuntoTicket\bin\Debug\netcoreapp3.1\ExamenPuntoTicket.exe
+C:\Users\CRISTOBAL\source\repos\ExamenPuntoTicket\ExamenPuntoTicket\bin\Debug\netcoreapp3.1\ExamenPuntoTicket.deps.json
+C:\Users\CRISTOBAL\source\repos\ExamenPuntoTicket\ExamenPuntoTicket\bin\Debug\netcoreapp3.1\ExamenPuntoTicket.runtimeconfig.json
+C:\Users\CRISTOBAL\source\repos\ExamenPuntoTicket\ExamenPuntoTicket\bin\Debug\netcoreapp3.1\ExamenPuntoTicket.runtimeconfig.dev.json
+C:\Users\CRISTOBAL\source\repos\ExamenPuntoTicket\ExamenPuntoTicket\bin\Debug\netcoreapp3.1\ExamenPuntoTicket.dll
+C:\Users\CRISTOBAL\source\repos\ExamenPuntoTicket\ExamenPuntoTicket\bin\Debug\netcoreapp3.1\ExamenPuntoTicket.pdb
+C:\Users\CRISTOBAL\source\repos\ExamenPuntoTicket\ExamenPuntoTicket\obj\Debug\netcoreapp3.1\ExamenPuntoTicket.csprojAssemblyReference.cache
+C:\Users\CRISTOBAL\source\repos\ExamenPuntoTicket\ExamenPuntoTicket\obj\Debug\netcoreapp3.1\ExamenPuntoTicket.AssemblyInfoInputs.cache
+C:\Users\CRISTOBAL\source\repos\ExamenPuntoTicket\ExamenPuntoTicket\obj\Debug\netcoreapp3.1\ExamenPuntoTicket.AssemblyInfo.cs
+C:\Users\CRISTOBAL\source\repos\ExamenPuntoTicket\ExamenPuntoTicket\obj\Debug\netcoreapp3.1\ExamenPuntoTicket.csproj.CoreCompileInputs.cache
+C:\Users\CRISTOBAL\source\repos\ExamenPuntoTicket\ExamenPuntoTicket\obj\Debug\netcoreapp3.1\ExamenPuntoTicket.dll
+C:\Users\CRISTOBAL\source\repos\ExamenPuntoTicket\ExamenPuntoTicket\obj\Debug\netcoreapp3.1\ExamenPuntoTicket.pdb
+C:\Users\CRISTOBAL\source\repos\ExamenPuntoTicket\ExamenPuntoTicket\obj\Debug\netcoreapp3.1\ExamenPuntoTicket.genruntimeconfig.cache
