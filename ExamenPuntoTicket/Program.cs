@@ -20,9 +20,9 @@ namespace ExamenPuntoTicket
            
             foreach (var item in ListadoArbol)
             {
-                if (item.Split('.').Length-1 == PosicionesNodo.Length)
+                if (item.Split('.').Length-1 >= PosicionesNodo.Length)
                 {
-                    var Rasgos = item.Split('.').Take(item.Split('.').Length-1);
+                    var Rasgos = item.Split('.').Take(item.Split('.').Length-(item.Split('.').Length-PosicionesNodo.Length));
                     var Herencia = string.Join(".", Rasgos);
                     if (Nodo.Equals(Herencia))
                     {
